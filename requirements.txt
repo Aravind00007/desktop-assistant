@@ -1,0 +1,9 @@
+Flask
+wikipedia-api
+requests
+sympy
+ecapture
+bottle
+bottle-websocket
+gevent
+gunicorn
